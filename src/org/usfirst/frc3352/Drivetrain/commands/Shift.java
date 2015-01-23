@@ -14,6 +14,10 @@ import org.usfirst.frc3352.Drivetrain.RobotMap;
 /**
  *
  */
+//In memory of Mrs.DeWall
+//In memory of Mrs.DeWall
+//In memory of Mrs.DeWall
+//In memory of Mrs.DeWall
 public class  Shift extends Command {
     boolean isFinished;
     public static boolean shifterState;
